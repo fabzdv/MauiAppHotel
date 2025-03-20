@@ -79,7 +79,7 @@
                         <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
                             <Label Text="Check-out:" />
                             <DatePicker x:Name="dtpck_checkout"
-                                        DateSelected="dtpck_checkout"
+                                        DateSelected="dtpck_checkout_DateSelected"
                                         Format="dd/MM/yyyy" />
                         </HorizontalStackLayout>
                         
